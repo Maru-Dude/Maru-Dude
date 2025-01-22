@@ -3,6 +3,7 @@
 A student passionate about Web Development and Design, currently learning to become a Back-End Developer.
 
 - 🌱 I’m currently learning *Vue* and *Laravel*  
+- 📂 All of my projects are available at https://leozdeath.github.io/Profile/ 
 - 📫 How to reach me *dzuto.g2@gmail.com*
 
 ## Languages and Tools:
